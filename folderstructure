@@ -1,0 +1,20 @@
+frontend/
+├── src/
+│ ├── api/
+│ │ └── client.ts
+│ ├── components/
+│ │ ├── TaskCard.tsx
+│ │ └── Loader.tsx
+│ ├── pages/
+│ │ ├── Login.tsx
+│ │ ├── Dashboard.tsx
+│ │ └── Tasks.tsx
+│ ├── hooks/
+│ │ └── useTasks.ts
+│ ├── socket/
+│ │ └── socket.ts
+│ ├── App.tsx
+│ └── main.tsx
+├── tailwind.config.js
+├── vite.config.ts
+└── package.json
