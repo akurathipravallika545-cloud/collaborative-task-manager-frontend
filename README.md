@@ -54,5 +54,5 @@ No sensitive data stored on the frontend
 Role-based access control not required as per assignment scope
 Conclusion
 This frontend application fully satisfies all UI, UX, and real-time requirements of the assignment and integrates seamlessly with the backend services.
-https://<your‑frontend‑url>.vercel.app
+https://<https://github.com/akurathipravallika545-cloud/collaborative-task-manager-frontend>.vercel.app
 Pravallika Akurathi
